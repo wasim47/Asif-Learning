@@ -1,0 +1,11 @@
+For first time any project to clone.
+Clone command:
+git clone url (Url you can find on github)
+
+Ragular use command:
+git pull
+git status
+git add . ----- (. means all file add to git)
+git add foldername (specific folder add to git)
+git commit -m "Update comment here" 
+git push

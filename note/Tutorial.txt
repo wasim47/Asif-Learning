@@ -1,0 +1,18 @@
+Github
+1. HTML/HTML5
+2. CSS/CSS3
+3. Bootstrap
+4. Tailwind CSS
+
+5. Javascript/Vanilla JS
+6. Jquery
+9. Vuejs
+10. Reactjs
+
+Backend
+11. Nodejs
+7. Ajax
+8. Axios
+12. Express JS
+13. Next JS
+14. Sweet Alert
