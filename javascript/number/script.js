@@ -23,7 +23,6 @@ function forLoop(){
 
 
 function getModulas(){
-    var a = 5;
     for(i = 1990; i <= 2022; i++){
         if(i%2 == 0){
             document.write(i + ' is even number'+"<br>");
