@@ -3,19 +3,20 @@ function getOutput () {
 
         name: "samsung",
         model: "galaxy",
-        price: [{
-            ram: '16GB',
-            amount : '15000.5',
-        },
-        {
-            ram : '32GB',
-            amount: '16500',
-        },
-        {
-            ram : '64Gb',
-            amount : '18500'
-        }
-    ]
+        price: [
+                {
+                    ram: '16GB',
+                    amount : '15000.5',
+                },
+                {
+                    ram : '32GB',
+                    amount: '16500',
+                },
+                {
+                    ram : '64Gb',
+                    amount : '18500'
+                }
+            ]
     }
     document.getElementById("name").innerHTML= product.name;
     document.getElementById("model").innerHTML=product.model;
